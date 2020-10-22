@@ -55,6 +55,23 @@ But currently I have chosen to learn guitar from the free content path on the in
   [https://www.youtube.com/watch?v=dhwix_UAkm0](https://www.youtube.com/watch?v=dhwix_UAkm0)
 
 
+## Freely available guitar ebook resources from there respective sites
+
+* Classical Guitar Method Book Volume 1 by Bradford Werner <br>
+  [https://www.thisisclassicalguitar.com/free-classical-guitar-method-book-pdf/](https://www.thisisclassicalguitar.com/free-classical-guitar-method-book-pdf/)
+
+* Guitar Habits - The 150 Essential Chords <br>
+  [https://www.guitarhabits.com/guitarhabitsebook/The150EssentialChords.pdf](https://www.guitarhabits.com/guitarhabitsebook/The150EssentialChords.pdf)
+
+* Learn and Master Guitar Lesson Book <br>
+  [https://www.learnandmaster.com/resources/Learn-and-Master-Guitar-Lesson-Book.pdf](https://www.learnandmaster.com/resources/Learn-and-Master-Guitar-Lesson-Book.pdf)
+
+* Learn and Master Spotlight Series Blues Guitar Lesson Book <br>
+  [https://www.learnandmaster.com/spotlight-series/blues-guitar/resources/Spotlight_Blues_Guitar_LessonBook.pdf](https://www.learnandmaster.com/spotlight-series/blues-guitar/resources/Spotlight_Blues_Guitar_LessonBook.pdf)
+
+* Music Centre - Free Guitar ebooks <br>
+  [https://www.musiccentre.co.uk/free-guitar-ebooks](https://www.musiccentre.co.uk/free-guitar-ebooks) 
+
 ## Nice review channels on gear with really good music and improvisation
 
 * EytschPi42 <br>
