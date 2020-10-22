@@ -61,7 +61,7 @@ But currently I have chosen to learn guitar from the free content path on the in
   [https://www.youtube.com/channel/UCrPHxHPnSvHzNNYbJlYoyGQ](https://www.youtube.com/channel/UCrPHxHPnSvHzNNYbJlYoyGQ)
 
 
-## In my case after much searching for quality but cheap guitar, this was the brand I have chosen
+## In my case after much searching for quality but on cheap guitars, this was the brand I have chosen
 Harley Benton, they currently start at 73 euros for an adult’s guitar. I leave in Europe so shipping is low. They have a lot of variety of models, they are made in China or Indonesia but the quality control is made in Germany by Thomann. I have read about the experiences of others with this brand and it was good so I decided to choose it and I'm pleased with it.
 
 * Harley Benton <br>
