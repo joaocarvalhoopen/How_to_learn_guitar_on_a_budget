@@ -112,23 +112,32 @@ You will also need a cable and some picks.
 * Zoom G1 Four Review - Alexandre Almeida <br>
   [https://www.youtube.com/watch?v=eS1X9umV6w8](https://www.youtube.com/watch?v=eS1X9umV6w8)
 
-* Zoom G1Four - Aprenda a criar seu timbre! - Alexandre Almeida <br>
-  [https://www.youtube.com/watch?v=Aq4dD4chzbw](https://www.youtube.com/watch?v=Aq4dD4chzbw)
+* Zoom G1Four - timbre Clean - Alexandre Almeida <br>
+  [https://www.youtube.com/watch?v=4ebzKWcnf4A](https://www.youtube.com/watch?v=4ebzKWcnf4A) 
 
 * Zoom G1Four - Amps - Alexandre Almeida <br>
   [https://www.youtube.com/watch?v=ct3r0tscy0w](https://www.youtube.com/watch?v=ct3r0tscy0w)
 
-* Zoom G1Four - Timbre Funcional (Pra tocar qualquer coisa!) - Alexandre Almeida <br>
-  [https://www.youtube.com/watch?v=673eGrT-GBE](https://www.youtube.com/watch?v=673eGrT-GBE)
-
 * Zoom G1Four - Ambiências - Alexandre Almeida <br>
   [https://www.youtube.com/watch?v=T4Z93xHQQ50](https://www.youtube.com/watch?v=T4Z93xHQQ50)
+
+* Zoom G1Four - Aprenda a criar seu timbre! - Alexandre Almeida <br>
+  [https://www.youtube.com/watch?v=Aq4dD4chzbw](https://www.youtube.com/watch?v=Aq4dD4chzbw)
+
+* Zoom G1Four - Timbre Funcional (Pra tocar qualquer coisa!) - Alexandre Almeida <br>
+  [https://www.youtube.com/watch?v=673eGrT-GBE](https://www.youtube.com/watch?v=673eGrT-GBE)
 
 * ZOOM G1FOUR + PEDAIS - Alexandre Almeida <br>
   [https://www.youtube.com/watch?v=1wFhDidxfnQ](https://www.youtube.com/watch?v=1wFhDidxfnQ)
 
 * Zoom G1Four - Da pra usar com o Violão? - Alexandre Almeida<br>
   [https://www.youtube.com/watch?v=sKZcvJUQf6k](https://www.youtube.com/watch?v=sKZcvJUQf6k)
+
+* Zoom G1Four - Timbre Stevie Ray Vaughan - Alexandre Almeida<br>
+  [https://www.youtube.com/watch?v=-eEtiCzFCzM](https://www.youtube.com/watch?v=-eEtiCzFCzM)
+
+* Zoom G1Four - Electric Gypsy - Alexandre Almeida<br>
+  [https://www.youtube.com/watch?v=9GOGYI0PiG4](https://www.youtube.com/watch?v=9GOGYI0PiG4) 
 
 
 ## A really nice life story to inspire you
