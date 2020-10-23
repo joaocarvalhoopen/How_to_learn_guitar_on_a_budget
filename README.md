@@ -21,6 +21,18 @@ Although I'm very intrigued by the following 3 books and maybe latter I will fol
 
 But currently I have chosen to learn guitar from the free content path on the internet, more precisely currently Electric Guitar. This choice is based on the current moment that we all leave, beginning of the second Covid19 wave in Europe, and the clear feeling that things economically are and will be getting tougher all around the world.
 
+## How to tune your guitar
+
+Use a tuner or a tuner APP and tune to the following mnemonic notes for each string. <br>
+<br>
+**E**ddie - Higher string position <br>
+**A**te      <br>
+**D**ynamite <br>
+**G**ood     <br>
+**B**ye      <br>
+**E**ddie - Lower position string <br>
+<br>
+Higher position string____ **E** - **A** - **D** - **G** - **B** - **E** ____Lower position string
 
 ## Youtube guitar courses or lessons 
 
@@ -85,7 +97,7 @@ Harley Benton, they currently start at 73 euros for an adult’s guitar. I leave
   [https://harleybenton.com](https://harleybenton.com)
 
 
-## The realization, that you can have nice gear with a really low budget.
+## The realization, that you can have nice gear with a really low budget
 
 * Harley Benton ST-62 Vintage Series - Full Demo <br>
   [https://www.youtube.com/watch?v=mbvfZ29OOMg](https://www.youtube.com/watch?v=mbvfZ29OOMg)
