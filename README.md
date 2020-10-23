@@ -32,7 +32,7 @@ Use a tuner or a tuner APP and tune to the following mnemonic notes for each str
 **B**ye      <br>
 **E**ddie - Lower position string <br>
 <br>
-Higher position string____ **E** - **A** - **D** - **G** - **B** - **E** ____Lower position string
+Higher position string ____ **E** - **A** - **D** - **G** - **B** - **E** ____ Lower position string
 
 ## Youtube guitar courses or lessons 
 
