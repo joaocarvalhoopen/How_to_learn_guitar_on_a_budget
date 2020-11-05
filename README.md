@@ -114,6 +114,12 @@ Harley Benton, they currently start at 73 euros for an adult’s guitar. I leave
   [https://www.youtube.com/watch?v=DGSCYmfQazc](https://www.youtube.com/watch?v=DGSCYmfQazc)
 
 
+## Open Source Virtual Guitar Amplifier
+
+* Guitarix <br>
+  [https://guitarix.org/](https://guitarix.org/)
+
+
 ## Low budget multi-pedal effects, guitar amp and cabinet simulator, echo and reverb and noise gate
 
 I don't have it yet but my choice is the cheap with good sound quality ZOOM G1 Four with phones so the neighbors don't complain.
