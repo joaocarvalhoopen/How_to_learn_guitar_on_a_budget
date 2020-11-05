@@ -173,7 +173,7 @@ You will also need a cable and some picks.
 I have many projects in my github around the audio subject. Guitar is a really fertile space for ideas in DIY electronics projects and DSP programming projects. Probably I will be inspired to do some specific to guitar in the future.
 
 
-# Learn the technology behind the guitar effects and amplifier simulation
+## Learn the technology behind the guitar effects and amplifier simulation
 
 * Audio-Plugin-Development-Resources <br>
   [https://github.com/jareddrayton/Audio-Plugin-Development-Resources](https://github.com/jareddrayton/Audio-Plugin-Development-Resources)
@@ -220,7 +220,7 @@ Example of DSP source code for the following guitar effects: <br>
   [https://www.hobby-hour.com/electronics/s/guitar-effect-schematics.php](https://www.hobby-hour.com/electronics/s/guitar-effect-schematics.php)
 
 
-# The book on programming guitar effects and DSP in general
+## The book on programming guitar effects and DSP in general
 
 * Designing Audio Effect Plugins in C++ 2th edition <br>
   by Will Pirkle <br>
