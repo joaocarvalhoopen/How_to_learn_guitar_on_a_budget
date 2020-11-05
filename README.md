@@ -21,6 +21,7 @@ Although I'm very intrigued by the following 3 books and maybe latter I will fol
 
 But currently I have chosen to learn guitar from the free content path on the internet, more precisely currently Electric Guitar. This choice is based on the current moment that we all leave, beginning of the second Covid19 wave in Europe, and the clear feeling that things economically are and will be getting tougher all around the world.
 
+
 ## How to tune your guitar
 
 Use a tuner or a tuner APP and tune to the following mnemonic notes for each string. <br>
@@ -34,6 +35,7 @@ Use a tuner or a tuner APP and tune to the following mnemonic notes for each str
 <br>
 Higher position string ____ **E** - **A** - **D** - **G** - **B** - **E** ____ Lower position string
 
+
 ## Youtube guitar courses or lessons 
 
 * Justin Guitar free course <br>
@@ -44,6 +46,9 @@ Higher position string ____ **E** - **A** - **D** - **G** - **B** - **E** ____ L
 
 * Ben Eller - This is Why You Suck at Guitar <br>
   [https://www.youtube.com/playlist?list=PLetEpa_0rdYDSO9rll4ymDoAFT-qnrOnW](https://www.youtube.com/playlist?list=PLetEpa_0rdYDSO9rll4ymDoAFT-qnrOnW)
+
+* Your Guitar Academy free course <br>
+  [https://yourguitaracademy.com/courses](https://yourguitaracademy.com/courses)
 
 
 ## Youtube to learn to play songs
@@ -166,6 +171,64 @@ You will also need a cable and some picks.
 
 ## Future programming and electronics projects for guitar
 I have many projects in my github around the audio subject. Guitar is a really fertile space for ideas in DIY electronics projects and DSP programming projects. Probably I will be inspired to do some specific to guitar in the future.
+
+
+# Learn the technology behind the guitar effects and amplifier simulation
+
+* Audio-Plugin-Development-Resources <br>
+  [https://github.com/jareddrayton/Audio-Plugin-Development-Resources](https://github.com/jareddrayton/Audio-Plugin-Development-Resources)
+
+* pedalSHIELD UNO Arduino Guitar Pedal with schematics and source code <br>
+  [https://www.electrosmash.com/pedalshield-uno](https://www.electrosmash.com/pedalshield-uno)
+
+* Pedal PI - Raspberry Pi ZERO Guitar Pedal with schematics and source code <br>
+  [https://www.electrosmash.com/pedal-pi](https://www.electrosmash.com/pedal-pi)
+
+Example of DSP source code for the following guitar effects: <br>
+
+-Clean-Transparent Guitar Pedal. <br>
+-Booster Effect Guitar Pedal. <br>
+-Distortion Effect Guitar Pedal. <br>
+-Fuzz Effect Guitar Pedal. <br>
+-Bit-Crusher Guitar Effect Pedal. <br>
+-Delay Guitar Effect Pedal. <br>
+-Echo Guitar Effect Pedal. <br>
+-Octaver Guitar Effect Pedal. <br>
+-Reverb Guitar Effect Pedal. <br>
+-Tremolo Guitar Effect Pedal. <br>
+-Looper Guitar Effect Pedal. <br>
+
+* How to Start Programming Pedal-Pi <br>
+  [https://www.electrosmash.com/forum/pedal-pi/202-how-to-start-programming-pedal-pi?lang=en](https://www.electrosmash.com/forum/pedal-pi/202-how-to-start-programming-pedal-pi?lang=en)
+
+* Simulating the Boss GE-7 Graphic Equalizer in LTSpice <br>
+  [http://cushychicken.github.io/ltspice-boss-ge7-equalizer/](http://cushychicken.github.io/ltspice-boss-ge7-equalizer/)
+
+* Simulating the Schaller Tremolo Pedal in LTSpice <br>
+  [http://cushychicken.github.io/ltspice-schaller-tremolo/](http://cushychicken.github.io/ltspice-schaller-tremolo/)
+
+* Simulating the Dunlop Crybaby Wah Pedal in LTSpice <br>
+  [http://cushychicken.github.io/ltspice-dunlop-crybaby/](http://cushychicken.github.io/ltspice-dunlop-crybaby/)
+
+* Simulating the ProCo RAT Distortion Pedal in LTSpice <br>
+  [http://cushychicken.github.io/ltspice-proco-rat/](http://cushychicken.github.io/ltspice-proco-rat/)
+
+* Simulating the TS808 Tube Screamer in LTSpice <br>
+  [http://cushychicken.github.io/posts/ltspice-tube-screamer/](http://cushychicken.github.io/posts/ltspice-tube-screamer/)
+
+* Hobby hour (schematics of many pedals) <br>
+  [https://www.hobby-hour.com/electronics/s/guitar-effect-schematics.php](https://www.hobby-hour.com/electronics/s/guitar-effect-schematics.php)
+
+
+# The book on programming guitar effects and DSP in general
+
+* Designing Audio Effect Plugins in C++ 2th edition <br>
+  by Will Pirkle <br>
+  704 pages
+
+* Understanding Digital Signal Processing 3rd Edition <br>
+  by Richard Lyons
+  954 pages
 
 
 ## Nice Youtube guitar channels in Portuguese and Spanish
