@@ -163,6 +163,44 @@ You will also need a cable and some picks.
   [https://www.youtube.com/watch?v=9GOGYI0PiG4](https://www.youtube.com/watch?v=9GOGYI0PiG4) 
 
 
+### How to get a Blues sound from ZOOM G1 Four?
+
+From the comments of Everton Almeida in the following videos of his fantastic Blues. <br> 
+
+"... to make a blusy sound you only need a fender amp simulation and a reverb spring 63 (you will have sufficient gain) if you can do this with phones, to hear the a good sound from the amplifiers of de effects pedal." <br
+<br>
+
+* Everton Almeida - Slow Blues Zoom g1on em linha <br>
+  [https://www.youtube.com/watch?v=xJDNnU5kdcY](https://www.youtube.com/watch?v=xJDNnU5kdcY)
+
+* Everton Almeida - Blues improviso zoom g1 on <br>
+  [https://www.youtube.com/watch?v=ZEXB-JmDEpU](https://www.youtube.com/watch?v=ZEXB-JmDEpU)
+
+* Everton Almeida - Crosscut blues style Albert King Robben Ford on zoom g1 on line <br>
+  [https://www.youtube.com/watch?v=5vqsauA17w0](https://www.youtube.com/watch?v=5vqsauA17w0)
+
+From the comments of Everton Almeida in the following video. <br> 
+
+"Ampli Tw rock <br>
+Gain 22 tube 57 level 150 <br>
+Treb 68 mid 76 bass 60 <br>
+Pres 54 cab tangeine 4x12 line <br>
+Reverb spring 63 <br>
+Notes: This configuration is cool in line in the recording, if you play in with the amp I have to cut the medium frequencies so that it doesn't starts to be the sound of a bee..." <br>
+
+"Used BOSS ds1 to boost the gain..." <br>
+
+* Everton Almeida - Zoom G1on em linha (Blues) <br>
+  [https://www.youtube.com/watch?v=aFMbGBzROp0](https://www.youtube.com/watch?v=aFMbGBzROp0)
+
+From the comments of Everton Almeida in the following video. <br>
+
+"The first two are: Vox jimi with gain in the 20 to 50 and a reverb spring 63 dwell 12 mixer 12  tone 58, the last is a tangerine with gain 60 and the same reverb spring 63 ..." <br>
+
+* Everton Almeida - Guitarra Blues e Zoom G1on <br>
+  [https://www.youtube.com/watch?v=cNUmLktcKFI](https://www.youtube.com/watch?v=cNUmLktcKFI)
+
+
 ## A really nice life story to inspire you
 
 * Brian Johnsons A Life on The Road Mark Knopfler <br>
