@@ -163,7 +163,7 @@ You will also need a cable and some picks.
   [https://www.youtube.com/watch?v=9GOGYI0PiG4](https://www.youtube.com/watch?v=9GOGYI0PiG4) 
 
 
-### How to get a Blues sound from ZOOM G1 Four?
+### How to get a Blues tone from ZOOM G1 Four?
 
 From the comments of Everton Almeida in the following videos of his fantastic Blues. <br> 
 
